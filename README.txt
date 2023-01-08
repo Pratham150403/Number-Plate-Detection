@@ -1,0 +1,2 @@
+In this project,we implemeneted an Inception-v4 network from scratch using tensorflow-keras using the research paper containing it's description. Then we used this network for numberplate coordinates detection after training on data(data extracted from xml files and normalized and pre-processed accordingly).We then used tesseract OCR to take text out of image inside out of bounding box.
+dataset link:https://drive.google.com/drive/folders/10PV3q2qpmjudWBk5bWFm32cdKZ20yxox
